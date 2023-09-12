@@ -1,0 +1,11 @@
+Natural            1        AB       400      100.                             2
+Natural            1        RM       500      100.                             2
+Natural            1        SM        10      100.                             2
+Natural            1        WP       400      100.                             2
+Natural            1        BF       100      100.                             2
+Natural            1        EH        50      100.                             2
+Natural            1        RS        60      100.                             2
+Natural            1        YB       150      100.                             2
+Natural            1        PB       350      100.                             2
+Natural            1        RO        15      100.                             2
+Natural            1        WA         5      100.                             2

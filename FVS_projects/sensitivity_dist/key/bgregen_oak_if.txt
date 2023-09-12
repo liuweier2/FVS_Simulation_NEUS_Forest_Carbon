@@ -1,0 +1,11 @@
+Natural            1        RO        25      100.                             2
+Natural            1        RM       100      100.                             2
+Natural            1        WP       250      100.                             2
+Natural            1        BO        25      100.                             2
+Natural            1        WO        10      100.                             2
+Natural            1        SB        25      100.                             2
+Natural            1        SO         5      100.                             2
+Natural            1        PH        50      100.                             2
+Natural            1        SH         5      100.                             2
+Natural            1        CO       100      100.                             2
+Natural            1        BC        25      100.                             2

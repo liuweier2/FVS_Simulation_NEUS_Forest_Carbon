@@ -1,0 +1,6 @@
+If                25
+year ge 2025
+Then
+!!ThinDBH            0        12       999         1       All         0         0    
+ThinDBH            0        12       999         1       All         0         0
+ENDIF

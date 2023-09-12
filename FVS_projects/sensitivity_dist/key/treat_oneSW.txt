@@ -1,0 +1,3 @@
+!!!!One-Cut Shelterwood!!!!
+ThinDBH         2025         2       999         1       All         0         0    
+!!ThinDBH         2025         2       999         1       All         0         0

@@ -1,0 +1,34 @@
+
+DATABASE
+DSNIn
+FVS_Data.db
+StandSQL
+SELECT * FROM FVS_StandInit
+WHERE Stand_ID= '%StandID%'
+EndSQL
+TreeSQL
+SELECT * FROM FVS_TreeInit
+WHERE Stand_ID= '%StandID%'
+EndSQL
+END
+
+* FVS_TreeList, FVS_Cutlist 
+Treelist       0                   0
+Cutlist        0                   0
+Atrtlist       0                   0
+Database
+TreeLiDB       2
+CutLiDB        2
+Atrtlidb       2
+End
+
+* FVS_Carbon, FVS_Hrv_Carbon, FVS_Fuels, FVS_Consumption
+FMIn
+
+CarbRept        2
+CarbCut
+CarbCalc        0         0
+End
+Database
+CarbReDB        2
+End

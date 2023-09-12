@@ -1,0 +1,31 @@
+If                20
+year ge 2030
+Then
+!!!!Beech leaf disease!!!!
+FixMort            0        AB         1       0.0     999.0         1        20
+!!!!Emerald ash borer!!!!
+FixMort            0        WA         1       0.0     999.0         1        20
+FixMort            0        GA         1       0.0     999.0         1        20
+FixMort            0        BA         1       0.0     999.0         1        20
+!!!!Spongy moth-oak!!!!
+FixMort            0        RO         1      18.0     999.0         1        20
+FixMort            0        WO         1      18.0     999.0         1        20
+FixMort            0        SO         1      18.0     999.0         1        20
+FixMort            0        CO         1      18.0     999.0         1        20
+FixMort            0        BO         1      18.0     999.0         1        20
+FixMort            0        RO     0.075       0.0      18.0         1        20
+FixMort            0        WO     0.075       0.0      18.0         1        20
+FixMort            0        SO     0.075       0.0      18.0         1        20
+FixMort            0        CO     0.075       0.0      18.0         1        20
+FixMort            0        BO     0.075       0.0      18.0         1        20
+!!!!Spongy moth-maple!!!!
+FixMort            0        RM     0.125      18.0     999.0         1        20
+FixMort            0        SM     0.125      18.0     999.0         1        20
+FixMort            0        ST     0.125      18.0     999.0         1        20
+FixMort            0        BM     0.125      18.0     999.0         1        20
+FixMort            0        SV     0.125      18.0     999.0         1        20
+FixMort            0        RM     0.125       0.0      18.0         1        20
+FixMort            0        SM     0.125       0.0      18.0         1        20
+FixMort            0        ST     0.125       0.0      18.0         1        20
+FixMort            0        BM     0.125       0.0      18.0         1        20
+FixMort            0        SV     0.125       0.0      18.0         1        20

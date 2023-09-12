@@ -1,0 +1,19 @@
+!!!!Windstorm!!!!
+If               100
+year ge 2050
+Then
+!!!!maple!!!!
+FixMort            0        SM     0.125       0.0     999.0         1        20
+FixMort            0        RM     0.125       0.0     999.0         1        20
+FixMort            0        BM     0.125       0.0     999.0         1        20
+FixMort            0        ST     0.125       0.0     999.0         1        20
+FixMort            0        SV     0.125       0.0     999.0         1        20
+!!!!hemlock!!!!
+FixMort            0        EH     0.125       0.0     999.0         1        20
+!!!!ash!!!!
+FixMort            0        WA      0.25       0.0     999.0         1        20
+FixMort            0        BA      0.25       0.0     999.0         1        20
+FixMort            0        GA      0.25       0.0     999.0         1        20
+!!!!white pine, black birch!!!!
+FixMort            0        WP      0.25       0.0     999.0         1        20
+FixMort            0        SB      0.25       0.0     999.0         1        20

@@ -1,0 +1,7 @@
+
+If                 0
+Cut eq Yes
+Then
+Compute            0
+CutBF=RBdFt
+End

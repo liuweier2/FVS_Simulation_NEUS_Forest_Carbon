@@ -1,0 +1,6 @@
+!!!!Shelterwood!!!!
+ThinDBH         2025         2        18         1       All         0         0
+ThinDBH         2025        18       999                 All         0        35
+!!!!Crown thinning!!!!
+ThinDBH         2080        18       999    0.3333       All         0
+ThinDBH         2105        18       999    0.3333       All         0

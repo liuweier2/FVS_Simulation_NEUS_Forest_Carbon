@@ -1,0 +1,11 @@
+Natural            1        AB        28      100.                             2
+Natural            1        RM        10      100.                             2
+Natural            1        SM       375      100.                             2
+Natural            1        WP        10      100.                             2
+Natural            1        BF        25      100.                             2
+Natural            1        EH       100      100.                             2
+Natural            1        RS       50      100.                             2
+Natural            1        YB      1250      100.                             2
+Natural            1        PB       250      100.                             2
+Natural            1        RO        38      100.                             2
+Natural            1        WA        75      100.                             2
